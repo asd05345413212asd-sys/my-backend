@@ -28,7 +28,7 @@ const appsData = [
     version_name: "410.0.0",
     version_code: 102,
     icon_url: "https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png",
-    apk_url: "http://127.0.0.1:3000/api/apps/download/facebook-lite.apk", 
+    apk_url:https://my-backend-drab-five.vercel.app/api/apps
     file_size: "3.5 MB",
     category: "Social",
     description: "نسخة فيسبوك الخفيفة والمناسبة لسرعات الإنترنت الضعيفة."
